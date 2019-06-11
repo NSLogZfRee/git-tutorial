@@ -2,5 +2,5 @@ add text
 f0rest
 feature-A
 fix-B
-faeture-C
+feature-C
 
