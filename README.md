@@ -1,4 +1,4 @@
 add text 
 f0rest
-feature-A
+faeture-A
 fix-B
